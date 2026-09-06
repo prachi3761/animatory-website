@@ -6,7 +6,6 @@ This is a Animated website .its just a clone website of  LAZAREV.
 .CSS
 .JAVASCRIPT .
 
-link of a clone website  ==  http://127.0.0.1:3000/index.html
 
 
 
